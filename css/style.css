@@ -1,0 +1,17 @@
+h1{color: blue;
+background-color: yellow;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 32px;
+text-align: center;
+font-weight: bolder;}
+h2{color: purple;
+background-color: gold;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;}
+p{color: purple;
+background-color: pink;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;}
+
+/*h1{color: purple;
+background-color: grey16
